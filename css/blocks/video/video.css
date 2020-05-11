@@ -150,6 +150,7 @@ video__paragraph
 	.video__author {
 		font-size: 14px;
 		line-height: 15px;
+		margin-bottom: 35px;
 	}
 
 }
@@ -161,5 +162,8 @@ video__paragraph
 	}
 	.video__itself {
 		width: 583px;
+	}
+	.video__author {
+		margin-bottom: 30px;
 	}
 }

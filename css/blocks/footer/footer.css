@@ -11,6 +11,9 @@
 	
 }
 @media (max-width: 768px) {
+	.main-footer {
+		margin-top: 64px;
+	}
 
 	.main-footer__copyright{
 		padding-left: 16px;

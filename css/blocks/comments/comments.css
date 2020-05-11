@@ -92,3 +92,10 @@
 		margin-bottom: 102px;
 	}
 }
+
+@media (min-width: 1440px) {
+	.photographer-list {
+	    margin-left: 128px;
+	    margin-right: 128px;
+	}
+}
