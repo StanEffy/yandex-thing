@@ -39,12 +39,11 @@
 		padding-right: 16px;
 		padding-bottom: 48px;
 	}
-	
+
 }
 @media(min-width: 768px){
 	.photographer-quote{
-		padding-left: 25%;
-		padding-right: 25%;
+		width: 382px;
 		padding-bottom: 48px;
 	}
 	.comments__caption {
@@ -60,6 +59,7 @@
 		flex-direction: column;
 		align-items: center;
 	}
+	
 
 }
 
@@ -75,11 +75,9 @@
 		padding-left: 0;
 		padding-right: 0;
 		padding-bottom: 17px;
-	}
-	.photographer-list__item {
 		width: 296px;
-
 	}
+	
 	.photographer-list__item {
 		align-items: flex-start;
 	}
@@ -91,7 +89,7 @@
 	}
 }
 @media (min-width: 1280px) {
-	.photographer-list__item {
+	.photographer-quote {
 		width: 382px;
 	}
 	.photographer-list {

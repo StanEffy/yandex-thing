@@ -137,7 +137,7 @@
 	}
 	.paragaf-url-container {
    
-    padding-left: 88px;
+    padding-left: 60px;
 }
 	
 
@@ -160,7 +160,10 @@
 		height: 460px;
 	
 	}
-
+	.paragaf-url-container {
+   
+    padding-left: 88px;
+	}
 
 	
 }
