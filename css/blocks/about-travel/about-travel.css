@@ -1,0 +1,103 @@
+.about-travel{
+
+}
+.about-travel__caption {
+	padding: 0;
+	margin: 0;
+}
+.bold {
+	font-weight: bold;
+}
+
+.about-travel__list {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-size: 12px;
+	line-height: 19px;
+	padding-bottom: 64px;
+}
+@media(max-width: 768px){
+	.about-travel__caption {
+		padding-top: 64px;
+		padding-bottom: 32px;
+		font-size: 32px;
+		line-height: 35px;
+		padding-left: 16px;
+	}
+	.about-travel__author-cover {
+		display: none;
+	}
+	.about-travel__paragraph {
+		font-size: 16px;
+		line-height: 27px;
+		padding-bottom: 32px;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.about-travel__list {
+		padding-left: 16px;
+	}
+}
+@media(min-width: 768px) {
+	.about-travel__caption {
+		padding-top: 80px;
+		padding-bottom: 48px;
+		font-size: 54px;
+		line-height: 59px;
+	}
+	.about-travel__paragraph {
+		font-size: 14px;
+		line-height: 24px;
+		padding-bottom: 40px;
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+	.about-travel__list {
+	font-size: 13px;
+	line-height: 20px;
+	padding-left: 24px;
+	padding-bottom: 97px;
+	}
+}
+@media(min-width: 1024px) {
+	.about-travel__caption {
+		padding-top: 80px;
+		padding-bottom: 48px;
+		font-size: 54px;
+		line-height: 59px;
+	}
+	.about-travel__paragraph {
+
+		padding-bottom: 24px;
+		padding-left: 48px;
+		padding-right: 48px;
+		width: 700px;
+	}
+	.about-travel__list {
+		padding-bottom: 102px;
+	}
+}
+@media(min-width: 1280px) {
+	.about-travel__caption {
+		padding-left: 148px;
+	}
+	.about-travel__paragraph {
+		padding-left: 148px;
+	}
+	.about-travel__list {
+		padding-left: 148px;
+	}
+}
+
+@media(min-width: 1280px) {
+	.about-travel__caption {
+		padding-left: 228px;
+	}
+	.about-travel__paragraph {
+		padding-left: 228px;
+	}
+	.about-travel__list {
+		padding-left: 228px;
+	}
+}

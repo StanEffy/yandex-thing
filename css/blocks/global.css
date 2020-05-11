@@ -1,0 +1,25 @@
+.index-body {
+	background-color: #2A2C2F;
+	color: #ffffff;
+	font-family: 'Inter', sans-serif;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+a:visited{
+	color: #ffffff;
+}
+
+a:hover {
+	opacity: 0.6;
+}
+
+a:active {
+	opacity: 0.8;
+}
+
+img {
+	max-width: 100%;
+}

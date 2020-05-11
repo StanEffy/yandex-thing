@@ -1,0 +1,94 @@
+.baikal-trip {
+	background-image: url('../../../images/baikal/baikal.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+.baikal-trip__caption {
+	margin: 0;
+	text-align: center;
+	font-size: 32px;
+	line-height: 35px;
+	background-color: rgba(0,0,0, 0.3);
+}
+.baikal-trip__subtitle {
+	margin: 0;
+	text-align: center;
+	background-color: rgba(0,0,0, 0.3);
+}
+@media(max-width: 375px) {
+	.baikal-trip__caption {
+		padding-top: 64px;
+		padding-bottom: 7px;
+	}
+
+}
+@media(max-width: 768px) {
+	.baikal-trip  {
+		margin-bottom: 64px;
+	}
+	.baikal-trip__caption {
+		padding-top: 104px;
+		padding-bottom: 17px;
+	}
+	.baikal-trip__subtitle {
+		padding-bottom: 24px;
+		font-size: 14px;
+		line-height: 17px;
+	}
+}
+@media(max-width: 1024px) {
+	.baikal-trip  {
+		margin-bottom: 102px;
+	}
+	.baikal-trip__caption {
+		padding-top: 165px;
+		padding-bottom: 45px;
+	}
+	.baikal-trip__subtitle {
+		padding-bottom: 40px;
+		font-size: 18px;
+		line-height: 26px;
+	}
+}
+@media (min-width: 1024px) {
+	.baikal-trip  {
+		margin-bottom: 160px;
+	}
+}
+@media(max-width: 1280px) {
+	
+	.baikal-trip {
+		margin-left: 48px;
+		margin-right: 48px;
+	}
+	.baikal-trip__caption {
+		padding-top: 211px;
+		padding-bottom: 171px;
+		font-size: 72px;
+		line-height: 78px;
+	}
+	.baikal-trip__subtitle {
+		padding-bottom: 46px;
+		font-size: 18px;
+		line-height: 26px;
+	}
+}
+@media(min-width: 1440px) {
+	.baikal-trip {
+		margin-left: 148px;
+		margin-right: 148px;
+
+	}
+	.baikal-trip__caption {
+		padding-top: 274px;
+		padding-bottom: 134px;
+		font-size: 72px;
+		line-height: 78px;
+	}
+	.baikal-trip__subtitle {
+		padding-bottom: 48px;
+		font-size: 18px;
+		line-height: 26px;
+	}
+}
