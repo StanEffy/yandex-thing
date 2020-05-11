@@ -43,6 +43,7 @@
 	.about-travel__caption {
 		padding-top: 80px;
 		padding-bottom: 48px;
+		padding-left: 24px;
 		font-size: 54px;
 		line-height: 59px;
 	}
@@ -66,6 +67,7 @@
 		padding-bottom: 48px;
 		font-size: 54px;
 		line-height: 59px;
+		padding-left: 48px;
 	}
 	.about-travel__paragraph {
 

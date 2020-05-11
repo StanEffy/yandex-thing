@@ -28,9 +28,11 @@
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
+		align-items: center;
 		margin-left: 23px;
 		margin-right: 23px;
 		margin-bottom: 24px;
+		margin-top: 102px;
 		
 	}
 	.nav-list {
@@ -40,6 +42,11 @@
 		font-size: 16px;
 		line-height: 27px;
 	}
+	.nav-list__link {
+		font-size: 16px;
+		line-height: 27px;
+	}
+
 	.nav-list__item {
 		margin-bottom: 0px;
 		margin-right: 18px;
@@ -54,8 +61,9 @@
 		margin-left: 48px;
 		margin-right: 48px;
 		margin-bottom: 48px;
+		margin-top: 160px;
 	}
-	.nav-list {
+	.nav-list__link {
 		font-size: 24px;
 		line-height: 41px;
 	}
