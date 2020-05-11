@@ -111,6 +111,9 @@ video__paragraph
 		font-size: 42px;
 		line-height: 46px;
 		padding-bottom: 24px;
+		width: 800px;
+		margin: 0 auto;
+
 	}
 	.video__paragraph  {
 		margin-bottom: 72px;
