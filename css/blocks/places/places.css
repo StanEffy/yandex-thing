@@ -43,6 +43,7 @@
 		font-size: 42px;
 		line-height: 46px;
 		padding-bottom: 48px;
+		width: 50%;
 	}
 	.places-article__img,
 	.places-cap-pic__container {
@@ -51,6 +52,8 @@
 
 	.places-article__paragraph{
 		padding-left: 28px;
+		font-size: 16px;
+		line-height: 27px;
 	}
 	.places-article {
 		display: flex;
@@ -102,7 +105,7 @@
 		
 	}
 	.paragraf-container {
-		width: 456px;
+		/*width: 456px;*/
 		margin-left: 32px;
 	}
 	.places-article__img,
@@ -125,10 +128,7 @@
 		padding-right: 148px;
 		margin-bottom: 36px;
 	}
-	.places-article__paragraph{
-		
 
-	}
 	.paragraf-container {
 		width: 484px;
 		margin-left: 40px;

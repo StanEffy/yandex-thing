@@ -4,12 +4,13 @@
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-
+	width: 300px;
 
 }
 .intro__img {
 	position: relative;
 	display: block;
+	margin: 0 auto;
 }
 .intro__img-container {
 	position: relative;
@@ -59,7 +60,7 @@
 		line-height: 93px;
 		max-width: 928px;
 		margin: 48px auto;
-
+		width: 678px;
 	}
 	.intro__caption-paragraph {
 		margin: 0 auto;

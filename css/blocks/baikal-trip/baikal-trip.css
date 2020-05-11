@@ -33,9 +33,7 @@
 
 }
 @media(min-width: 375px) {
-	.baikal-trip {
-		margin-top: 48px;
-	}
+
 	.baikal-trip__caption {
 		padding-top: 64px;
 		padding-bottom: 17px;
@@ -44,7 +42,7 @@
 		width: 50%;
 	}
 	.baikal-trip__subtitle {
-		padding-bottom: 24px;
+		padding-bottom: 11%;
 		font-size: 14px;
 		line-height: 17px;
 		width: 80%;
@@ -63,7 +61,7 @@
 		width: 537px;
 	}
 	.baikal-trip__subtitle {
-		padding-bottom: 24px;
+		padding-bottom: 11%;
 		font-size: 18px;
 		line-height: 26px;
 		width: 521px;
@@ -83,7 +81,7 @@
 		width: 562px;
 	}
 	.baikal-trip__subtitle {
-		padding-bottom: 48px;
+		padding-bottom: 11%;
 
 		width: 511px;
 	}

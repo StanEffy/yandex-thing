@@ -32,6 +32,7 @@
 	}
 	.photo-grid {
 		justify-content: center;
+		padding-bottom: 102px;
 	}
 }
 @media(min-width: 1024px){

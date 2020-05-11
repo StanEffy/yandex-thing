@@ -78,6 +78,7 @@
 	}
 	.about-travel__list {
 		padding-bottom: 102px;
+		padding-left: 48px;
 	}
 }
 @media(min-width: 1280px) {

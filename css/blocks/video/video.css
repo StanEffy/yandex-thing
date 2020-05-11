@@ -10,6 +10,7 @@
 	font-size: 16px;
 	line-height: 23px;
 	text-align: center;
+	margin: 0;
 }
 .video-list {
 	list-style: none;
@@ -61,7 +62,7 @@
 	margin: 0;
 	margin-bottom: 16px;
 }
-
+video__paragraph
 
 @media (max-width: 375px) {
 	.video-list {
@@ -72,6 +73,11 @@
 	}
 }
 @media (max-width: 768px){
+	.video__paragraph {
+		margin-bottom: 24px;
+		padding-left: 24px;
+		padding-right: 24px;
+	}
 	.video-list {
 		margin-bottom: 64px;
 	}
